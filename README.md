@@ -9,7 +9,7 @@ A simple Flask-based API for managing workouts, containerized with Docker, teste
 
 ```bash
 # Clone repo
-git clone git clone https://github.com/2024ht66528/ACEest_Fitness.git
+git clone https://github.com/2024ht66528/ACEest_Fitness.git
 cd ACEest_Fitness
 
 # Install dependencies
